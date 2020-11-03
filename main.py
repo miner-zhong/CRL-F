@@ -3,8 +3,6 @@
 '''
 
 Implementation of CRL-F
-（code inspired by .......）
-
 Written by Miner Zhong.
 
 
